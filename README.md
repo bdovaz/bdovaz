@@ -17,7 +17,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdovaz&&theme=react&hide=stars&show_icons=true&count_private=true&include_all_commits=true" />
+  <a href="https://github.com/bdovaz">
+    <img src="https://github-readme-stats.vercel.app/api?username=bdovaz&&theme=react&hide=stars&show_icons=true&count_private=true&include_all_commits=true" />
+  </a>
 </p>
 
 <br>
