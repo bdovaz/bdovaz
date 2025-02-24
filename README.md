@@ -43,7 +43,6 @@
         Docker
     </td>
     <td align="center" width="96">
-        <img src="https://simpleicons.vercel.app/azuredevops/2560E0" width="48" height="48" alt="Azure Pipelines logo" />
         Azure DevOps
     </td>
     <td align="center" width="96">
@@ -51,7 +50,6 @@
         GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://simpleicons.vercel.app/azurepipelines/2560E0" width="48" height="48" alt="Azure Pipelines logo" />
         Azure Pipelines
     </td>
     <td align="center" width="96">
