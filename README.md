@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/borja-dom%C3%ADnguez-v%C3%A1zquez-82bbb22b/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" />
     </a>
     <a href="https://assetstore.unity.com/publishers/18584">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=unity&label=Unity&message=Asset Store Publisher" alt="Unity Asset Store Publisher Badge" />
+        <img src="https://img.shields.io/badge/Unity_Asset_Store_Publisher-grey?logo=unity" alt="Unity Asset Store Publisher Badge" />
     </a>
     <a href="https://twitter.com/cuchachiwi">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcuchachiwi&logo=x&label=Profile" alt="X (formerly Twitter) Badge" />
     </a>
 </p>
 
