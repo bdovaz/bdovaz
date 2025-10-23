@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/bdovaz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdovaz&hide=dockerfile&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdovaz&hide=html&theme=dark" />
   </a>
 </p>
 
