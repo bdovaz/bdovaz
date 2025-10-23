@@ -24,6 +24,14 @@
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/bdovaz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdovaz&hide=dockerfile&theme=dark" />
+  </a>
+</p>
+
+<br>
+
 <h2 align="center">Preferred technologies</h2>
 
 <br>
@@ -61,7 +69,7 @@
         Git
     </td>
      <td align="center" width="96">
-        <img src="https://simpleicons.vercel.app/sonarqube/4E9BCD" width="48" height="48" alt="SonarQube logo" />
+        <img src="https://simpleicons.vercel.app/sonarqubecloud/4E9BCD" width="48" height="48" alt="SonarQube Cloud logo" />
         SonarQube
     </td>
   </tr>
